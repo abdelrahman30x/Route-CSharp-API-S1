@@ -1,4 +1,4 @@
-﻿using ECommerceG02.Domian.Contacts;
+﻿using ECommerceG02.Domian.Contracts;
 using ECommerceG02.Domian.Models.Products;
 using ECommerceG02.Presistence.Contexts;
 using Microsoft.EntityFrameworkCore;

@@ -1,5 +1,5 @@
 
-using ECommerceG02.Domian.Contacts;
+using ECommerceG02.Domian.Contracts;
 using ECommerceG02.Presistence.Contexts;
 using ECommerceG02.Presistence.Seed;
 using Microsoft.EntityFrameworkCore;
